@@ -119,6 +119,149 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &9384769
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 449411816664264955, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 1953241920997055034, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 2554088582386183675, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181202400833734428, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 4425967559487294755, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 5003223154700571898, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 5379414936703727185, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 5839138410333303833, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 6732912969665364292, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 6949687700130121395, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_RootOrder
+      value: 234
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.86586
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.86586
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.86586
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.087
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -11.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.88031477
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.4743901
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -56.639
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_Name
+      value: chair (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 8183103220971602682, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520838014053061359, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 8522465243669458061, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 8815011811544034057, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 91697712}
+    - targetCorrespondingSourceObject: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 91697711}
+  m_SourcePrefab: {fileID: 100100000, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
 --- !u!1001 &19610290
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1020,6 +1163,10 @@ PrefabInstance:
       value: drawer handle (7)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -1097,6 +1244,59 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 513546a837bb5d44cbbb2f9939336861, type: 3}
+--- !u!1 &91697710 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+  m_PrefabInstance: {fileID: 9384769}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &91697711
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 91697710}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0.54, z: 0}
+--- !u!54 &91697712
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 91697710}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &101045107
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1108,6 +1308,10 @@ PrefabInstance:
     - target: {fileID: 7112059431661060959, guid: 513546a837bb5d44cbbb2f9939336861, type: 3}
       propertyPath: m_Name
       value: rack (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7112059431661060959, guid: 513546a837bb5d44cbbb2f9939336861, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 7112059431661060959, guid: 513546a837bb5d44cbbb2f9939336861, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1326,6 +1530,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e4e11ea820df4144a80c5d1d3d605107, type: 3}
       propertyPath: m_Name
       value: Glass_Lab_test_tube (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e4e11ea820df4144a80c5d1d3d605107, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e4e11ea820df4144a80c5d1d3d605107, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1591,6 +1799,10 @@ PrefabInstance:
       value: glass (1)
       objectReference: {fileID: 0}
     - target: {fileID: 818166905119799040, guid: 0464c51f3e579bd4ca5150116cebfe97, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 818166905119799040, guid: 0464c51f3e579bd4ca5150116cebfe97, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -1710,6 +1922,10 @@ PrefabInstance:
     - target: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
       propertyPath: m_Name
       value: chair (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1834,20 +2050,6 @@ MonoBehaviour:
   sprintZoomOutDistance: 1.5
   zoomOutSpeed: 1
   smoothZoomSpeed: 0.7
---- !u!114 &107779563
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 107779557}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9b4006af17d795b4caeacaadfaf06835, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  gravityStrength: 10
-  attractionRadius: 5
 --- !u!135 &107779564
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -1869,7 +2071,7 @@ SphereCollider:
   serializedVersion: 3
   m_Radius: 0.99999994
   m_Center: {x: -0.000000029802322, y: 0, z: -0.00000005960464}
---- !u!114 &107779568
+--- !u!114 &107779572
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1878,16 +2080,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 107779557}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0b2cb6f387a05da449a0cfa76f4d24b8, type: 3}
+  m_Script: {fileID: 11500000, guid: 437498381b54f854085cb8e5843cc8f8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  detectionRadius: 5
-  suckInRadius: 1
-  baseSuckInSpeed: 0.1
-  instantSuckInRadius: 2
-  minSizeFactor: 0.05
-  maxSizeFactor: 1
-  liftHeight: 2
+  blackHole: {fileID: 107779561}
+  pullStrength: 5
+  minSize: 0.1
+  pullRadius: 5
+  shrinkStartDistance: 2
+  growthPercentage: 0.01
+  shrinkSpeed: 1
+  consumeDistanceThreshold: 0.1
 --- !u!1001 &109552077
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1907,6 +2110,10 @@ PrefabInstance:
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_Name
       value: Glass_Lab_test_tube with liquid (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2162,6 +2369,10 @@ PrefabInstance:
     - target: {fileID: 818166905119799040, guid: 0464c51f3e579bd4ca5150116cebfe97, type: 3}
       propertyPath: m_Name
       value: glass (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 818166905119799040, guid: 0464c51f3e579bd4ca5150116cebfe97, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 818166905119799040, guid: 0464c51f3e579bd4ca5150116cebfe97, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2424,6 +2635,10 @@ PrefabInstance:
       value: Beaker (1)
       objectReference: {fileID: 0}
     - target: {fileID: 375499282934692910, guid: 1836ec5a4a9706d42b8941d84940196f, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 375499282934692910, guid: 1836ec5a4a9706d42b8941d84940196f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -2547,6 +2762,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
       propertyPath: m_Name
       value: drawer handle (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2862,6 +3081,10 @@ PrefabInstance:
       value: shelf showcase (8)
       objectReference: {fileID: 0}
     - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -2973,6 +3196,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
       propertyPath: m_Name
       value: drawer handle (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3107,6 +3334,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 98b82dfb9bbe8a04ca7f7f1980e08f8c, type: 3}
       propertyPath: m_Name
       value: glass_funnel (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 98b82dfb9bbe8a04ca7f7f1980e08f8c, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 98b82dfb9bbe8a04ca7f7f1980e08f8c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3257,6 +3488,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 98b82dfb9bbe8a04ca7f7f1980e08f8c, type: 3}
       propertyPath: m_Name
       value: glass_funnel (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 98b82dfb9bbe8a04ca7f7f1980e08f8c, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 98b82dfb9bbe8a04ca7f7f1980e08f8c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3448,6 +3683,10 @@ PrefabInstance:
     - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
       propertyPath: m_Name
       value: Box (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -4101,6 +4340,10 @@ PrefabInstance:
       value: florence_flask with water (8)
       objectReference: {fileID: 0}
     - target: {fileID: 2924298259548178806, guid: 61c67c3c4a5f20f4b9b0d61fea197d67, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 2924298259548178806, guid: 61c67c3c4a5f20f4b9b0d61fea197d67, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -4245,6 +4488,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 981368d7116284b499cd25993804b250, type: 3}
       propertyPath: m_Name
       value: glass support (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 981368d7116284b499cd25993804b250, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 981368d7116284b499cd25993804b250, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -4401,6 +4648,10 @@ PrefabInstance:
       value: Beaker water (11)
       objectReference: {fileID: 0}
     - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -4484,6 +4735,10 @@ PrefabInstance:
     - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
       propertyPath: m_Name
       value: Beaker water (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5219,6 +5474,10 @@ PrefabInstance:
       value: rack (2)
       objectReference: {fileID: 0}
     - target: {fileID: 7112059431661060959, guid: 513546a837bb5d44cbbb2f9939336861, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 7112059431661060959, guid: 513546a837bb5d44cbbb2f9939336861, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -5371,6 +5630,10 @@ PrefabInstance:
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_Name
       value: Glass_Lab_test_tube with liquid (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5660,6 +5923,10 @@ PrefabInstance:
       value: shelf showcase (2)
       objectReference: {fileID: 0}
     - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -5943,6 +6210,10 @@ PrefabInstance:
       value: shelf (4)
       objectReference: {fileID: 0}
     - target: {fileID: 2581742485220959495, guid: f2629ace2826e974393b395f2af2bb50, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 2581742485220959495, guid: f2629ace2826e974393b395f2af2bb50, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -6010,6 +6281,10 @@ PrefabInstance:
     - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
       propertyPath: m_Name
       value: shelf showcase (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -6083,6 +6358,10 @@ PrefabInstance:
     - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
       propertyPath: m_Name
       value: Box (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -6356,6 +6635,10 @@ PrefabInstance:
       value: Glass_medical_dropper (1)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 962eb04bf1b1e724dbb40dbd73d26af1, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 962eb04bf1b1e724dbb40dbd73d26af1, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -6525,6 +6808,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 467bcd725f0c5c44d834baf480c0729c, type: 3}
       propertyPath: m_Name
       value: Crucible_Tongs (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 467bcd725f0c5c44d834baf480c0729c, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 467bcd725f0c5c44d834baf480c0729c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -6767,6 +7054,10 @@ PrefabInstance:
       value: Erlenmeyer_flask with water (8)
       objectReference: {fileID: 0}
     - target: {fileID: 8482147909517439867, guid: 82efbd6f209a6ab4c8e561fcd37a4810, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 8482147909517439867, guid: 82efbd6f209a6ab4c8e561fcd37a4810, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -6928,63 +7219,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
---- !u!1001 &506699725
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 107779561}
-    m_Modifications:
-    - target: {fileID: 139732, guid: 45f241dd5f20d234ca1ef081841b082d, type: 3}
-      propertyPath: m_Name
-      value: Accretion
-      objectReference: {fileID: 0}
-    - target: {fileID: 429646, guid: 45f241dd5f20d234ca1ef081841b082d, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 429646, guid: 45f241dd5f20d234ca1ef081841b082d, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 429646, guid: 45f241dd5f20d234ca1ef081841b082d, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 429646, guid: 45f241dd5f20d234ca1ef081841b082d, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7413906
-      objectReference: {fileID: 0}
-    - target: {fileID: 429646, guid: 45f241dd5f20d234ca1ef081841b082d, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.67107385
-      objectReference: {fileID: 0}
-    - target: {fileID: 429646, guid: 45f241dd5f20d234ca1ef081841b082d, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.000000011456046
-      objectReference: {fileID: 0}
-    - target: {fileID: 429646, guid: 45f241dd5f20d234ca1ef081841b082d, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.000000011456046
-      objectReference: {fileID: 0}
-    - target: {fileID: 429646, guid: 45f241dd5f20d234ca1ef081841b082d, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 429646, guid: 45f241dd5f20d234ca1ef081841b082d, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 429646, guid: 45f241dd5f20d234ca1ef081841b082d, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 45f241dd5f20d234ca1ef081841b082d, type: 3}
 --- !u!1001 &510935696
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6996,6 +7230,10 @@ PrefabInstance:
     - target: {fileID: 2721261975605995626, guid: 015d07e8f9746c94eb8cd53e5b0964ab, type: 3}
       propertyPath: m_Name
       value: water Shelf (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2721261975605995626, guid: 015d07e8f9746c94eb8cd53e5b0964ab, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 2721261975605995626, guid: 015d07e8f9746c94eb8cd53e5b0964ab, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -7154,6 +7392,10 @@ PrefabInstance:
     - target: {fileID: 3724090118469892172, guid: aab47d642ec9fd94ab69459ad6deedb1, type: 3}
       propertyPath: m_Name
       value: glass_frame (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3724090118469892172, guid: aab47d642ec9fd94ab69459ad6deedb1, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 3724090118469892172, guid: aab47d642ec9fd94ab69459ad6deedb1, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -7658,6 +7900,10 @@ PrefabInstance:
       value: Glass_Lab_test_tube (6)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e4e11ea820df4144a80c5d1d3d605107, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e4e11ea820df4144a80c5d1d3d605107, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -7685,6 +7931,10 @@ PrefabInstance:
     - target: {fileID: 8482147909517439867, guid: 82efbd6f209a6ab4c8e561fcd37a4810, type: 3}
       propertyPath: m_Name
       value: Erlenmeyer_flask with water (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8482147909517439867, guid: 82efbd6f209a6ab4c8e561fcd37a4810, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 8482147909517439867, guid: 82efbd6f209a6ab4c8e561fcd37a4810, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8010,6 +8260,10 @@ PrefabInstance:
       value: drawer handle (5)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -8029,6 +8283,10 @@ PrefabInstance:
     - target: {fileID: 3724090118469892172, guid: aab47d642ec9fd94ab69459ad6deedb1, type: 3}
       propertyPath: m_Name
       value: glass_frame (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3724090118469892172, guid: aab47d642ec9fd94ab69459ad6deedb1, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 3724090118469892172, guid: aab47d642ec9fd94ab69459ad6deedb1, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8142,6 +8400,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
       propertyPath: m_Name
       value: drawer handle (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9187,6 +9449,10 @@ PrefabInstance:
       value: Graduated_Cylinder (4)
       objectReference: {fileID: 0}
     - target: {fileID: 1406912553242785874, guid: 820eb138b931c5e428d3fba6a0c81a0c, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 1406912553242785874, guid: 820eb138b931c5e428d3fba6a0c81a0c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -9442,6 +9708,10 @@ PrefabInstance:
       value: Box02
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: da8d6c6ca953aa24a924db0a93d368ec, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: da8d6c6ca953aa24a924db0a93d368ec, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -9538,6 +9808,10 @@ PrefabInstance:
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_Name
       value: Glass_Lab_test_tube with liquid (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9728,6 +10002,10 @@ PrefabInstance:
     - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
       propertyPath: m_Name
       value: Beaker water (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9945,6 +10223,10 @@ PrefabInstance:
       value: glass support (7)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 981368d7116284b499cd25993804b250, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 981368d7116284b499cd25993804b250, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -10046,6 +10328,10 @@ PrefabInstance:
       value: Boiling_Liquid_Stand (4)
       objectReference: {fileID: 0}
     - target: {fileID: 6344767980783267782, guid: 5a995f9fd8fafcf479304ec16ce9c299, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 6344767980783267782, guid: 5a995f9fd8fafcf479304ec16ce9c299, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -10074,11 +10360,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a995f9fd8fafcf479304ec16ce9c299, type: 3}
---- !u!4 &705312953 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 429646, guid: 45f241dd5f20d234ca1ef081841b082d, type: 3}
-  m_PrefabInstance: {fileID: 506699725}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &705314619
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10443,6 +10724,10 @@ PrefabInstance:
       value: Beaker water (3)
       objectReference: {fileID: 0}
     - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -10609,6 +10894,10 @@ PrefabInstance:
       value: Boiling_Liquid_Stand (2)
       objectReference: {fileID: 0}
     - target: {fileID: 6344767980783267782, guid: 5a995f9fd8fafcf479304ec16ce9c299, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 6344767980783267782, guid: 5a995f9fd8fafcf479304ec16ce9c299, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -10736,6 +11025,10 @@ PrefabInstance:
     - target: {fileID: 2924298259548178806, guid: 61c67c3c4a5f20f4b9b0d61fea197d67, type: 3}
       propertyPath: m_Name
       value: florence_flask with water (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2924298259548178806, guid: 61c67c3c4a5f20f4b9b0d61fea197d67, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 2924298259548178806, guid: 61c67c3c4a5f20f4b9b0d61fea197d67, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -10888,6 +11181,10 @@ PrefabInstance:
       value: stand glass (3)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: c46ea31fd4e9353429ec414ebc1dbceb, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c46ea31fd4e9353429ec414ebc1dbceb, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -10951,6 +11248,10 @@ PrefabInstance:
     - target: {fileID: 818166905119799040, guid: 0464c51f3e579bd4ca5150116cebfe97, type: 3}
       propertyPath: m_Name
       value: glass (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 818166905119799040, guid: 0464c51f3e579bd4ca5150116cebfe97, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 818166905119799040, guid: 0464c51f3e579bd4ca5150116cebfe97, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -11087,6 +11388,10 @@ PrefabInstance:
       value: Erlenmeyer_flask (2)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2d6b31bbb0cc4d74f9eb0dcbe73380be, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2d6b31bbb0cc4d74f9eb0dcbe73380be, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -11164,6 +11469,10 @@ PrefabInstance:
       value: glass_funnel (4)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 98b82dfb9bbe8a04ca7f7f1980e08f8c, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 98b82dfb9bbe8a04ca7f7f1980e08f8c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -11183,6 +11492,10 @@ PrefabInstance:
     - target: {fileID: 7112059431661060959, guid: 513546a837bb5d44cbbb2f9939336861, type: 3}
       propertyPath: m_Name
       value: rack (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7112059431661060959, guid: 513546a837bb5d44cbbb2f9939336861, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 7112059431661060959, guid: 513546a837bb5d44cbbb2f9939336861, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -11553,6 +11866,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -11745,6 +12062,10 @@ PrefabInstance:
     - target: {fileID: 2924298259548178806, guid: 61c67c3c4a5f20f4b9b0d61fea197d67, type: 3}
       propertyPath: m_Name
       value: florence_flask with water (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2924298259548178806, guid: 61c67c3c4a5f20f4b9b0d61fea197d67, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 2924298259548178806, guid: 61c67c3c4a5f20f4b9b0d61fea197d67, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -11960,6 +12281,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
       propertyPath: m_Name
       value: drawer handle (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12181,6 +12506,10 @@ PrefabInstance:
       value: Beaker water (5)
       objectReference: {fileID: 0}
     - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -12208,6 +12537,10 @@ PrefabInstance:
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_Name
       value: Glass_Lab_test_tube with liquid (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12354,6 +12687,10 @@ PrefabInstance:
     - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
       propertyPath: m_Name
       value: shelf showcase (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12558,6 +12895,10 @@ PrefabInstance:
       value: Spirit_Lamp with water (7)
       objectReference: {fileID: 0}
     - target: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -12649,6 +12990,10 @@ PrefabInstance:
     - target: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9, type: 3}
       propertyPath: m_Name
       value: Spirit_Lamp with water (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12803,6 +13148,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 98b82dfb9bbe8a04ca7f7f1980e08f8c, type: 3}
       propertyPath: m_Name
       value: glass_funnel (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 98b82dfb9bbe8a04ca7f7f1980e08f8c, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 98b82dfb9bbe8a04ca7f7f1980e08f8c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13198,6 +13547,10 @@ PrefabInstance:
       value: drawer handle (8)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -13373,13 +13726,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.043357875, y: 0, z: 0, w: 0.9990596}
-  m_LocalPosition: {x: 0, y: -0.85, z: 2.31}
+  m_LocalRotation: {x: 0.06975647, y: 0, z: 0, w: 0.9975641}
+  m_LocalPosition: {x: 0, y: 1.5, z: -3.5}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 107779561}
-  m_LocalEulerAnglesHint: {x: 4.97, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 8, y: 0, z: 0}
 --- !u!320 &963194230
 PlayableDirector:
   m_ObjectHideFlags: 0
@@ -13415,6 +13768,10 @@ PrefabInstance:
     - target: {fileID: 7112059431661060959, guid: 513546a837bb5d44cbbb2f9939336861, type: 3}
       propertyPath: m_Name
       value: rack (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7112059431661060959, guid: 513546a837bb5d44cbbb2f9939336861, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 7112059431661060959, guid: 513546a837bb5d44cbbb2f9939336861, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -14265,6 +14622,10 @@ PrefabInstance:
       value: Glass_Lab_test_tube with liquid (9)
       objectReference: {fileID: 0}
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -14473,6 +14834,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 43f13c2bdd3f0704583b07aa61489e21, type: 3}
       propertyPath: m_Name
       value: Spirit_Lamp (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 43f13c2bdd3f0704583b07aa61489e21, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 43f13c2bdd3f0704583b07aa61489e21, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -14754,6 +15119,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
+    - target: {fileID: 3710546519062849806, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5891565926528241176, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -14765,6 +15134,10 @@ PrefabInstance:
     - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
       propertyPath: m_Name
       value: Box (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -14841,19 +15214,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 474162, guid: c992d79b826e7ac4c93ec12f114e838a, type: 3}
       propertyPath: m_LocalScale.x
-      value: -0.4
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: 474162, guid: c992d79b826e7ac4c93ec12f114e838a, type: 3}
       propertyPath: m_LocalScale.y
-      value: -0.40000048
+      value: 0.20000024
       objectReference: {fileID: 0}
     - target: {fileID: 474162, guid: c992d79b826e7ac4c93ec12f114e838a, type: 3}
       propertyPath: m_LocalScale.z
-      value: -0.40000048
+      value: 0.20000024
       objectReference: {fileID: 0}
     - target: {fileID: 474162, guid: c992d79b826e7ac4c93ec12f114e838a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.75
+      value: -1.87
       objectReference: {fileID: 0}
     - target: {fileID: 474162, guid: c992d79b826e7ac4c93ec12f114e838a, type: 3}
       propertyPath: m_LocalPosition.y
@@ -14901,9 +15274,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 474162, guid: c992d79b826e7ac4c93ec12f114e838a, type: 3}
       insertIndex: -1
       addedObject: {fileID: 963194228}
-    - targetCorrespondingSourceObject: {fileID: 474162, guid: c992d79b826e7ac4c93ec12f114e838a, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 705312953}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 178544, guid: c992d79b826e7ac4c93ec12f114e838a, type: 3}
       insertIndex: -1
@@ -14913,10 +15283,7 @@ PrefabInstance:
       addedObject: {fileID: 107779564}
     - targetCorrespondingSourceObject: {fileID: 178544, guid: c992d79b826e7ac4c93ec12f114e838a, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 107779563}
-    - targetCorrespondingSourceObject: {fileID: 178544, guid: c992d79b826e7ac4c93ec12f114e838a, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 107779568}
+      addedObject: {fileID: 107779572}
   m_SourcePrefab: {fileID: 100100000, guid: c992d79b826e7ac4c93ec12f114e838a, type: 3}
 --- !u!1 &1103637518
 GameObject:
@@ -15015,6 +15382,10 @@ PrefabInstance:
     - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
       propertyPath: m_Name
       value: shelf showcase (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -15458,6 +15829,10 @@ PrefabInstance:
       value: Box (5)
       objectReference: {fileID: 0}
     - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -15686,6 +16061,10 @@ PrefabInstance:
     - target: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
       propertyPath: m_Name
       value: chair (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -16089,6 +16468,10 @@ PrefabInstance:
       value: Glass_Lab_test_tube (7)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e4e11ea820df4144a80c5d1d3d605107, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e4e11ea820df4144a80c5d1d3d605107, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -16158,6 +16541,10 @@ PrefabInstance:
       value: drawer handle (13)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -16181,6 +16568,10 @@ PrefabInstance:
     - target: {fileID: 8482147909517439867, guid: 82efbd6f209a6ab4c8e561fcd37a4810, type: 3}
       propertyPath: m_Name
       value: Erlenmeyer_flask with water (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8482147909517439867, guid: 82efbd6f209a6ab4c8e561fcd37a4810, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 8482147909517439867, guid: 82efbd6f209a6ab4c8e561fcd37a4810, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -16306,6 +16697,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
       propertyPath: m_Name
       value: drawer handle (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -16519,6 +16914,10 @@ PrefabInstance:
       value: crucible_and_cover (5)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ddd4e0df3ec62434ebc8a1ed9d649589, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ddd4e0df3ec62434ebc8a1ed9d649589, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -16590,6 +16989,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 981368d7116284b499cd25993804b250, type: 3}
       propertyPath: m_Name
       value: glass support (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 981368d7116284b499cd25993804b250, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 981368d7116284b499cd25993804b250, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -16701,6 +17104,10 @@ PrefabInstance:
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_Name
       value: Glass_Lab_test_tube with liquid (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -16962,6 +17369,10 @@ PrefabInstance:
       value: Erlenmeyer_flask (3)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2d6b31bbb0cc4d74f9eb0dcbe73380be, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2d6b31bbb0cc4d74f9eb0dcbe73380be, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -17058,6 +17469,10 @@ PrefabInstance:
     - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
       propertyPath: m_Name
       value: Box (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -17343,6 +17758,10 @@ PrefabInstance:
       value: Spirit_Lamp with water (1)
       objectReference: {fileID: 0}
     - target: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -17566,6 +17985,10 @@ PrefabInstance:
       value: stand glass
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: c46ea31fd4e9353429ec414ebc1dbceb, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c46ea31fd4e9353429ec414ebc1dbceb, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -17712,6 +18135,10 @@ PrefabInstance:
       value: Spirit_Lamp with water (2)
       objectReference: {fileID: 0}
     - target: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -17819,6 +18246,10 @@ PrefabInstance:
     - target: {fileID: 6344767980783267782, guid: 5a995f9fd8fafcf479304ec16ce9c299, type: 3}
       propertyPath: m_Name
       value: Boiling_Liquid_Stand (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6344767980783267782, guid: 5a995f9fd8fafcf479304ec16ce9c299, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 6344767980783267782, guid: 5a995f9fd8fafcf479304ec16ce9c299, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -17973,6 +18404,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: c46ea31fd4e9353429ec414ebc1dbceb, type: 3}
       propertyPath: m_Name
       value: stand glass (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c46ea31fd4e9353429ec414ebc1dbceb, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: c46ea31fd4e9353429ec414ebc1dbceb, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -18137,6 +18572,10 @@ PrefabInstance:
       value: glass_funnel (7)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 98b82dfb9bbe8a04ca7f7f1980e08f8c, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 98b82dfb9bbe8a04ca7f7f1980e08f8c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -18293,6 +18732,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6a6487b4b31c5b44db6e658d47143b49, type: 3}
       propertyPath: m_Name
       value: Test_tube_rack (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6a6487b4b31c5b44db6e658d47143b49, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6a6487b4b31c5b44db6e658d47143b49, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -18459,6 +18902,10 @@ PrefabInstance:
     - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
       propertyPath: m_Name
       value: Beaker water (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -18643,6 +19090,10 @@ PrefabInstance:
       value: Beaker water (8)
       objectReference: {fileID: 0}
     - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -18651,6 +19102,149 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 24c728c68968f6447b856666f27564a5, type: 3}
+--- !u!1001 &1346968016
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 449411816664264955, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 1953241920997055034, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 2554088582386183675, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181202400833734428, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 4425967559487294755, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 5003223154700571898, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 5379414936703727185, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 5839138410333303833, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 6732912969665364292, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 6949687700130121395, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_RootOrder
+      value: 234
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.86586
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.86586
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.86586
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.38
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.087
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.88031477
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.4743901
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -56.639
+      objectReference: {fileID: 0}
+    - target: {fileID: 7130933916817260433, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_Name
+      value: chair (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 8183103220971602682, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520838014053061359, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 8522465243669458061, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 8815011811544034057, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 64
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1633628712}
+    - targetCorrespondingSourceObject: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1633628711}
+  m_SourcePrefab: {fileID: 100100000, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
 --- !u!1001 &1353549349
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18866,6 +19460,10 @@ PrefabInstance:
       value: Test_tube_rack
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6a6487b4b31c5b44db6e658d47143b49, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6a6487b4b31c5b44db6e658d47143b49, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -19024,6 +19622,10 @@ PrefabInstance:
       value: Spirit_Lamp with water (8)
       objectReference: {fileID: 0}
     - target: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -19136,6 +19738,10 @@ PrefabInstance:
     - target: {fileID: 6296904470243763194, guid: db90a77efe2e41f438b4f71f4dbca71e, type: 3}
       propertyPath: m_Name
       value: tap (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6296904470243763194, guid: db90a77efe2e41f438b4f71f4dbca71e, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 6296904470243763194, guid: db90a77efe2e41f438b4f71f4dbca71e, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -19461,6 +20067,10 @@ PrefabInstance:
       value: crucible_and_cover (9)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ddd4e0df3ec62434ebc8a1ed9d649589, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ddd4e0df3ec62434ebc8a1ed9d649589, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -19778,6 +20388,10 @@ PrefabInstance:
       value: shelf (3)
       objectReference: {fileID: 0}
     - target: {fileID: 2581742485220959495, guid: f2629ace2826e974393b395f2af2bb50, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 2581742485220959495, guid: f2629ace2826e974393b395f2af2bb50, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -19941,6 +20555,10 @@ PrefabInstance:
     - target: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
       propertyPath: m_Name
       value: chair (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -20200,6 +20818,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 98b82dfb9bbe8a04ca7f7f1980e08f8c, type: 3}
       propertyPath: m_Name
       value: glass_funnel (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 98b82dfb9bbe8a04ca7f7f1980e08f8c, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 98b82dfb9bbe8a04ca7f7f1980e08f8c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -20514,6 +21136,10 @@ PrefabInstance:
       value: Test_tube_rack (3)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6a6487b4b31c5b44db6e658d47143b49, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6a6487b4b31c5b44db6e658d47143b49, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -20581,6 +21207,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
       propertyPath: m_Name
       value: drawer handle (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -20687,6 +21317,10 @@ PrefabInstance:
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_Name
       value: Glass_Lab_test_tube with liquid (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -20802,6 +21436,10 @@ PrefabInstance:
       value: florence_flask with water (1)
       objectReference: {fileID: 0}
     - target: {fileID: 2924298259548178806, guid: 61c67c3c4a5f20f4b9b0d61fea197d67, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 2924298259548178806, guid: 61c67c3c4a5f20f4b9b0d61fea197d67, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -20814,6 +21452,38 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 61c67c3c4a5f20f4b9b0d61fea197d67, type: 3}
+--- !u!1 &1540771414 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
+  m_PrefabInstance: {fileID: 7445462500191107302}
+  m_PrefabAsset: {fileID: 0}
+--- !u!54 &1540771419
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1540771414}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1541136227
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20825,6 +21495,10 @@ PrefabInstance:
     - target: {fileID: 2721261975605995626, guid: 015d07e8f9746c94eb8cd53e5b0964ab, type: 3}
       propertyPath: m_Name
       value: water Shelf (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2721261975605995626, guid: 015d07e8f9746c94eb8cd53e5b0964ab, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 2721261975605995626, guid: 015d07e8f9746c94eb8cd53e5b0964ab, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -20971,6 +21645,10 @@ PrefabInstance:
     - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
       propertyPath: m_Name
       value: shelf showcase (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -21181,6 +21859,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 981368d7116284b499cd25993804b250, type: 3}
       propertyPath: m_Name
       value: glass support (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 981368d7116284b499cd25993804b250, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 981368d7116284b499cd25993804b250, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -21690,6 +22372,10 @@ PrefabInstance:
       value: shelf (1)
       objectReference: {fileID: 0}
     - target: {fileID: 2581742485220959495, guid: f2629ace2826e974393b395f2af2bb50, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 2581742485220959495, guid: f2629ace2826e974393b395f2af2bb50, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -21807,6 +22493,10 @@ PrefabInstance:
       value: drawer handle (12)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -21872,6 +22562,10 @@ PrefabInstance:
       value: Glass_Lab_test_tube (4)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e4e11ea820df4144a80c5d1d3d605107, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e4e11ea820df4144a80c5d1d3d605107, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -21935,6 +22629,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ffad09fc807174544874a365c124edc4, type: 3}
       propertyPath: m_Name
       value: forceps (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ffad09fc807174544874a365c124edc4, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ffad09fc807174544874a365c124edc4, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22321,6 +23019,59 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+--- !u!1 &1633628710 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+  m_PrefabInstance: {fileID: 1346968016}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1633628711
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1633628710}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0.54, z: 0}
+--- !u!54 &1633628712
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1633628710}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1637047566
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22495,6 +23246,10 @@ PrefabInstance:
       value: Boiling_Liquid_Stand (3)
       objectReference: {fileID: 0}
     - target: {fileID: 6344767980783267782, guid: 5a995f9fd8fafcf479304ec16ce9c299, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 6344767980783267782, guid: 5a995f9fd8fafcf479304ec16ce9c299, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -22584,6 +23339,10 @@ PrefabInstance:
       value: glass support (2)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 981368d7116284b499cd25993804b250, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 981368d7116284b499cd25993804b250, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -22655,6 +23414,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ddd4e0df3ec62434ebc8a1ed9d649589, type: 3}
       propertyPath: m_Name
       value: crucible_and_cover (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ddd4e0df3ec62434ebc8a1ed9d649589, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ddd4e0df3ec62434ebc8a1ed9d649589, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22732,6 +23495,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ddd4e0df3ec62434ebc8a1ed9d649589, type: 3}
       propertyPath: m_Name
       value: crucible_and_cover (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ddd4e0df3ec62434ebc8a1ed9d649589, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ddd4e0df3ec62434ebc8a1ed9d649589, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22825,6 +23592,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a419f6c4cca9daa45be9efe9e6d5d200, type: 3}
       propertyPath: m_Name
       value: analytical_lab_instruments (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a419f6c4cca9daa45be9efe9e6d5d200, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a419f6c4cca9daa45be9efe9e6d5d200, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23029,7 +23800,7 @@ GameObject:
   - component: {fileID: 1668884437}
   m_Layer: 0
   m_Name: Area Light (20)
-  m_TagString: Untagged
+  m_TagString: Attractable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23137,6 +23908,10 @@ PrefabInstance:
     - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
       propertyPath: m_Name
       value: Box (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23455,6 +24230,10 @@ PrefabInstance:
       value: Box02 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: da8d6c6ca953aa24a924db0a93d368ec, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: da8d6c6ca953aa24a924db0a93d368ec, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -23674,6 +24453,10 @@ PrefabInstance:
       value: glass_funnel (8)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 98b82dfb9bbe8a04ca7f7f1980e08f8c, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 98b82dfb9bbe8a04ca7f7f1980e08f8c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -23753,6 +24536,10 @@ PrefabInstance:
     - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
       propertyPath: m_Name
       value: Beaker water (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23917,6 +24704,10 @@ PrefabInstance:
       value: glass support (3)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 981368d7116284b499cd25993804b250, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 981368d7116284b499cd25993804b250, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -23944,6 +24735,10 @@ PrefabInstance:
     - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
       propertyPath: m_Name
       value: Box (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -24084,6 +24879,10 @@ PrefabInstance:
       value: Glass_Lab_test_tube with liquid (5)
       objectReference: {fileID: 0}
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -24191,6 +24990,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: da8d6c6ca953aa24a924db0a93d368ec, type: 3}
       propertyPath: m_Name
       value: Box02 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: da8d6c6ca953aa24a924db0a93d368ec, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: da8d6c6ca953aa24a924db0a93d368ec, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -24386,6 +25189,10 @@ PrefabInstance:
     - target: {fileID: 2721261975605995626, guid: 015d07e8f9746c94eb8cd53e5b0964ab, type: 3}
       propertyPath: m_Name
       value: water Shelf (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2721261975605995626, guid: 015d07e8f9746c94eb8cd53e5b0964ab, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 2721261975605995626, guid: 015d07e8f9746c94eb8cd53e5b0964ab, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -24607,6 +25414,10 @@ PrefabInstance:
       value: Erlenmeyer_flask with water (3)
       objectReference: {fileID: 0}
     - target: {fileID: 8482147909517439867, guid: 82efbd6f209a6ab4c8e561fcd37a4810, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 8482147909517439867, guid: 82efbd6f209a6ab4c8e561fcd37a4810, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -24682,6 +25493,10 @@ PrefabInstance:
     - target: {fileID: 7112059431661060959, guid: 513546a837bb5d44cbbb2f9939336861, type: 3}
       propertyPath: m_Name
       value: rack (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7112059431661060959, guid: 513546a837bb5d44cbbb2f9939336861, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 7112059431661060959, guid: 513546a837bb5d44cbbb2f9939336861, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -25205,6 +26020,10 @@ PrefabInstance:
       value: crucible_and_cover (1)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ddd4e0df3ec62434ebc8a1ed9d649589, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ddd4e0df3ec62434ebc8a1ed9d649589, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -25240,6 +26059,10 @@ PrefabInstance:
     - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
       propertyPath: m_Name
       value: Box (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -25380,6 +26203,10 @@ PrefabInstance:
       value: glass_frame (2)
       objectReference: {fileID: 0}
     - target: {fileID: 3724090118469892172, guid: aab47d642ec9fd94ab69459ad6deedb1, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 3724090118469892172, guid: aab47d642ec9fd94ab69459ad6deedb1, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -25507,6 +26334,10 @@ PrefabInstance:
     - target: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9, type: 3}
       propertyPath: m_Name
       value: Spirit_Lamp with water (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -25655,6 +26486,10 @@ PrefabInstance:
       value: Test_tube_rack (4)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6a6487b4b31c5b44db6e658d47143b49, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6a6487b4b31c5b44db6e658d47143b49, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -25674,6 +26509,10 @@ PrefabInstance:
     - target: {fileID: 2581742485220959495, guid: f2629ace2826e974393b395f2af2bb50, type: 3}
       propertyPath: m_Name
       value: shelf (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2581742485220959495, guid: f2629ace2826e974393b395f2af2bb50, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 2581742485220959495, guid: f2629ace2826e974393b395f2af2bb50, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -25902,6 +26741,10 @@ PrefabInstance:
       value: Glass_medical_dropper
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 962eb04bf1b1e724dbb40dbd73d26af1, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 962eb04bf1b1e724dbb40dbd73d26af1, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -25929,6 +26772,10 @@ PrefabInstance:
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_Name
       value: Glass_Lab_test_tube with liquid (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -26137,6 +26984,10 @@ PrefabInstance:
       value: Beaker water (12)
       objectReference: {fileID: 0}
     - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -26156,6 +27007,10 @@ PrefabInstance:
     - target: {fileID: 3724090118469892172, guid: aab47d642ec9fd94ab69459ad6deedb1, type: 3}
       propertyPath: m_Name
       value: glass_frame (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3724090118469892172, guid: aab47d642ec9fd94ab69459ad6deedb1, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 3724090118469892172, guid: aab47d642ec9fd94ab69459ad6deedb1, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -26229,6 +27084,10 @@ PrefabInstance:
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_Name
       value: Glass_Lab_test_tube with liquid (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -26413,6 +27272,10 @@ PrefabInstance:
       value: china dish (1)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f0ab5f518a39b5e40a973ef5bbb25921, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f0ab5f518a39b5e40a973ef5bbb25921, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -26432,6 +27295,10 @@ PrefabInstance:
     - target: {fileID: 7112059431661060959, guid: 513546a837bb5d44cbbb2f9939336861, type: 3}
       propertyPath: m_Name
       value: rack (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7112059431661060959, guid: 513546a837bb5d44cbbb2f9939336861, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 7112059431661060959, guid: 513546a837bb5d44cbbb2f9939336861, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -26511,6 +27378,10 @@ PrefabInstance:
       value: Graduated_Cylinder (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1406912553242785874, guid: 820eb138b931c5e428d3fba6a0c81a0c, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 1406912553242785874, guid: 820eb138b931c5e428d3fba6a0c81a0c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -26582,6 +27453,10 @@ PrefabInstance:
     - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
       propertyPath: m_Name
       value: Box (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -26913,6 +27788,10 @@ PrefabInstance:
       value: stand glass (1)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: c46ea31fd4e9353429ec414ebc1dbceb, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c46ea31fd4e9353429ec414ebc1dbceb, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -26933,7 +27812,7 @@ GameObject:
   - component: {fileID: 1972325987}
   m_Layer: 0
   m_Name: Reflection Probe
-  m_TagString: Untagged
+  m_TagString: Attractable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27387,6 +28266,10 @@ PrefabInstance:
       value: chair (3)
       objectReference: {fileID: 0}
     - target: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 7619521233714750763, guid: 00f2ce65178270a459700e0c08c55a4f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -27426,6 +28309,10 @@ PrefabInstance:
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_Name
       value: Glass_Lab_test_tube with liquid (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -27634,6 +28521,10 @@ PrefabInstance:
       value: glass_funnel (1)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 98b82dfb9bbe8a04ca7f7f1980e08f8c, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 98b82dfb9bbe8a04ca7f7f1980e08f8c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -27786,6 +28677,10 @@ PrefabInstance:
     - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
       propertyPath: m_Name
       value: Beaker water (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -27949,6 +28844,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ffad09fc807174544874a365c124edc4, type: 3}
       propertyPath: m_Name
       value: forceps (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ffad09fc807174544874a365c124edc4, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ffad09fc807174544874a365c124edc4, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -28539,6 +29438,10 @@ PrefabInstance:
       value: tap (1)
       objectReference: {fileID: 0}
     - target: {fileID: 6296904470243763194, guid: db90a77efe2e41f438b4f71f4dbca71e, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 6296904470243763194, guid: db90a77efe2e41f438b4f71f4dbca71e, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -28668,6 +29571,10 @@ PrefabInstance:
       value: Spirit_Lamp with water (3)
       objectReference: {fileID: 0}
     - target: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -28762,6 +29669,10 @@ PrefabInstance:
       value: shelf showcase (7)
       objectReference: {fileID: 0}
     - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -28833,6 +29744,10 @@ PrefabInstance:
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_Name
       value: Glass_Lab_test_tube with liquid (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -28950,6 +29865,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6a6487b4b31c5b44db6e658d47143b49, type: 3}
       propertyPath: m_Name
       value: Test_tube_rack (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6a6487b4b31c5b44db6e658d47143b49, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6a6487b4b31c5b44db6e658d47143b49, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -29199,6 +30118,10 @@ PrefabInstance:
       value: glass support (4)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 981368d7116284b499cd25993804b250, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 981368d7116284b499cd25993804b250, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -29218,6 +30141,10 @@ PrefabInstance:
     - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
       propertyPath: m_Name
       value: shelf showcase (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -29337,6 +30264,10 @@ PrefabInstance:
       value: crucible_and_cover (4)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ddd4e0df3ec62434ebc8a1ed9d649589, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ddd4e0df3ec62434ebc8a1ed9d649589, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -29406,6 +30337,10 @@ PrefabInstance:
       value: florence_flask with water (4)
       objectReference: {fileID: 0}
     - target: {fileID: 2924298259548178806, guid: 61c67c3c4a5f20f4b9b0d61fea197d67, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 2924298259548178806, guid: 61c67c3c4a5f20f4b9b0d61fea197d67, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -29473,6 +30408,10 @@ PrefabInstance:
     - target: {fileID: 2924298259548178806, guid: 61c67c3c4a5f20f4b9b0d61fea197d67, type: 3}
       propertyPath: m_Name
       value: florence_flask with water (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2924298259548178806, guid: 61c67c3c4a5f20f4b9b0d61fea197d67, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 2924298259548178806, guid: 61c67c3c4a5f20f4b9b0d61fea197d67, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -29625,6 +30564,10 @@ PrefabInstance:
       value: drawer handle (4)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 760634872ac8e0545aea25d92fb64cf4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -29710,6 +30653,10 @@ PrefabInstance:
       value: crucible_and_cover (7)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ddd4e0df3ec62434ebc8a1ed9d649589, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ddd4e0df3ec62434ebc8a1ed9d649589, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -29733,6 +30680,10 @@ PrefabInstance:
     - target: {fileID: 1406912553242785874, guid: 820eb138b931c5e428d3fba6a0c81a0c, type: 3}
       propertyPath: m_Name
       value: Graduated_Cylinder (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1406912553242785874, guid: 820eb138b931c5e428d3fba6a0c81a0c, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 1406912553242785874, guid: 820eb138b931c5e428d3fba6a0c81a0c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -29810,6 +30761,10 @@ PrefabInstance:
     - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
       propertyPath: m_Name
       value: Box (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 8308827090525536746, guid: 39cc7f30cb7643c4788fafb36317e6f0, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -30010,6 +30965,10 @@ PrefabInstance:
       value: Spirit_Lamp with water
       objectReference: {fileID: 0}
     - target: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -30091,6 +31050,10 @@ PrefabInstance:
       value: florence_flask with water
       objectReference: {fileID: 0}
     - target: {fileID: 2924298259548178806, guid: 61c67c3c4a5f20f4b9b0d61fea197d67, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 2924298259548178806, guid: 61c67c3c4a5f20f4b9b0d61fea197d67, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -30158,6 +31121,10 @@ PrefabInstance:
     - target: {fileID: 818166905119799040, guid: 0464c51f3e579bd4ca5150116cebfe97, type: 3}
       propertyPath: m_Name
       value: glass
+      objectReference: {fileID: 0}
+    - target: {fileID: 818166905119799040, guid: 0464c51f3e579bd4ca5150116cebfe97, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 818166905119799040, guid: 0464c51f3e579bd4ca5150116cebfe97, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -30280,6 +31247,10 @@ PrefabInstance:
     - target: {fileID: 6296904470243763194, guid: db90a77efe2e41f438b4f71f4dbca71e, type: 3}
       propertyPath: m_Name
       value: tap
+      objectReference: {fileID: 0}
+    - target: {fileID: 6296904470243763194, guid: db90a77efe2e41f438b4f71f4dbca71e, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 6296904470243763194, guid: db90a77efe2e41f438b4f71f4dbca71e, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -30409,6 +31380,10 @@ PrefabInstance:
     - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
       propertyPath: m_Name
       value: Beaker water
+      objectReference: {fileID: 0}
+    - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 9028627854349766800, guid: 24c728c68968f6447b856666f27564a5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -30577,6 +31552,10 @@ PrefabInstance:
       value: Graduated_Cylinder (1)
       objectReference: {fileID: 0}
     - target: {fileID: 2924589560471003509, guid: 1facb00fc6b330b4590ed152a3aadcd3, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 2924589560471003509, guid: 1facb00fc6b330b4590ed152a3aadcd3, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 64
       objectReference: {fileID: 0}
@@ -30608,6 +31587,10 @@ PrefabInstance:
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_Name
       value: Glass_Lab_test_tube with liquid
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 4661188770769472284, guid: cbb3159864b0a1348ab992ae9813d64d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -30831,9 +31814,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -5240971630650632272, guid: 58d93148047363d45a12c673b277817d, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
       propertyPath: m_Name
       value: shelf showcase
+      objectReference: {fileID: 0}
+    - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -30886,7 +31877,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3777058534420937386, guid: 58d93148047363d45a12c673b277817d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1540771419}
   m_SourcePrefab: {fileID: 100100000, guid: 58d93148047363d45a12c673b277817d, type: 3}
 --- !u!1001 &8516241624644945986
 PrefabInstance:
@@ -30972,6 +31966,10 @@ PrefabInstance:
     - target: {fileID: 8482147909517439867, guid: 82efbd6f209a6ab4c8e561fcd37a4810, type: 3}
       propertyPath: m_Name
       value: Erlenmeyer_flask with water
+      objectReference: {fileID: 0}
+    - target: {fileID: 8482147909517439867, guid: 82efbd6f209a6ab4c8e561fcd37a4810, type: 3}
+      propertyPath: m_TagString
+      value: Attractable
       objectReference: {fileID: 0}
     - target: {fileID: 8482147909517439867, guid: 82efbd6f209a6ab4c8e561fcd37a4810, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -31280,6 +32278,8 @@ SceneRoots:
   - {fileID: 559977817}
   - {fileID: 229979912}
   - {fileID: 1953283660}
+  - {fileID: 1346968016}
+  - {fileID: 9384769}
   - {fileID: 106355434}
   - {fileID: 1127581776}
   - {fileID: 1113130646}

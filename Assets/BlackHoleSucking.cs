@@ -3,33 +3,57 @@ using System.Collections;
 
 public class BlackHole : MonoBehaviour
 {
-    [SerializeField] private float detectionRadius = 100f;   // Detection radius for orbiting
-    [SerializeField] private float suckInRadius = 3f;        // Sucking radius
-    [SerializeField] private float baseSuckInSpeed = 0.5f; 
-    [SerializeField] private float instantSuckInRadius = 2f; 
-    [SerializeField] private float minSizeFactor = 0.05f;    
-    [SerializeField] private float maxSizeFactor = 1f; // Max size factor (100%)
-    [SerializeField] private float gravitationalForce = 10f; // Adjusted gravitational force
-    [SerializeField] private float orbitSpeed = 2f; // Speed of orbiting
-    [SerializeField] private float maxOrbitSpeed = 2f; // Max speed limit for orbiting
-    [SerializeField] private float maxOrbitDistance = 10f; // Max distance from the black hole
+    public float detectionRadius = 50f;       // Detection radius for attracting objects
+    public float suckInRadius = 1f;            // Sucking radius (smaller to allow closer approach)
+    public float gravitationalForce = 0.002f;   // Very weak gravitational force for slow attraction
+    public float orbitDistance = 7f;            // Distance from the black hole for orbiting
+    public float minOrbitDistance = 2f;         // Minimum distance while orbiting
+    public float orbitSpeed = 0.5f;              // Faster speed of orbiting
+    public float timeToSuckIn = 5f;              // Time to fully get sucked into the black hole
+    public float orbitDuration = 5f;              // Duration for orbiting
+    public float delayBeforeSuckIn = 3f;        // Delay before allowing sucking to start
+    public float suckInSpeed = 0.01f;            // Speed of sucking the object into the black hole
+    public float orbitShrinkRate = 0.01f;        // Rate at which the orbit distance shrinks
+
+    private bool abilityActive = false;          // To track if the ability is active
+    private Transform currentObject;              // To track the currently grabbed object
+
+    private void Update()
+    {
+        // Check for left mouse button input
+        if (Input.GetMouseButtonDown(0))
+        {
+            abilityActive = true; // Activate the ability
+        }
+        else if (Input.GetMouseButtonUp(0))
+        {
+            abilityActive = false; // Deactivate the ability
+            if (currentObject != null)
+            {
+                Rigidbody rb = currentObject.GetComponent<Rigidbody>();
+                if (rb != null)
+                {
+                    rb.isKinematic = false; // Allow ragdoll effect or regular physics
+                }
+            }
+        }
+    }
 
     private void FixedUpdate()
     {
-        DetectAndProcessAttractableObjects();
-    }
-
-    private void DetectAndProcessAttractableObjects()
-    {
-        Collider[] colliders = Physics.OverlapSphere(transform.position, detectionRadius);
-        
-        foreach (var collider in colliders)
+        if (abilityActive)
         {
-            if (collider.CompareTag("Attractable"))
+            Collider[] colliders = Physics.OverlapSphere(transform.position, detectionRadius);
+            
+            foreach (var collider in colliders)
             {
-                if (collider.TryGetComponent<Rigidbody>(out Rigidbody rb) && !rb.isKinematic)
+                if (collider.CompareTag("Attractable"))
                 {
-                    StartCoroutine(HandleAttractable(collider.transform, rb));
+                    Rigidbody rb = collider.GetComponent<Rigidbody>();
+                    if (rb != null)
+                    {
+                        StartCoroutine(HandleAttractable(collider.transform, rb));
+                    }
                 }
             }
         }
@@ -37,85 +61,81 @@ public class BlackHole : MonoBehaviour
 
     private IEnumerator HandleAttractable(Transform objectToSuck, Rigidbody rb)
     {
-        float orbitTime = 0f; // Timer for orbiting
-        bool hasStartedSucking = false; // Flag for sucking state
+        float orbitTimer = 0f; 
+        bool canSuckIn = false; 
+        bool isOrbiting = false;
 
         while (objectToSuck != null)
         {
+            currentObject = objectToSuck; // Track the currently grabbed object
             float distance = Vector3.Distance(transform.position, objectToSuck.position);
-            Vector3 directionToBlackHole = (transform.position - objectToSuck.position).normalized;
 
-            // Calculate the gravitational force
-            Vector3 gravity = directionToBlackHole * gravitationalForce / (distance * distance + 1f); // Avoid division by zero
-
-            // Calculate orbiting position
-            Vector3 orbitPosition = Quaternion.Euler(0, orbitSpeed * Time.fixedDeltaTime, 0) * (objectToSuck.position - transform.position);
-            objectToSuck.position = transform.position + orbitPosition;
-
-            // Apply gravitational pull
-            rb.AddForce(gravity);
-
-            // Ensure the object stays within the max orbit distance
-            if (distance > maxOrbitDistance)
+            if (distance < suckInRadius && canSuckIn)
             {
-                objectToSuck.position = transform.position + directionToBlackHole * maxOrbitDistance;
+                SuckInObject(objectToSuck);
+                yield break; 
             }
 
-            // Clamp the speed of the Rigidbody
-            Vector3 velocity = rb.velocity;
-            if (velocity.magnitude > maxOrbitSpeed)
+            if (distance < minOrbitDistance)
             {
-                rb.velocity = velocity.normalized * maxOrbitSpeed;
+                Vector3 inwardDirection = (transform.position - objectToSuck.position).normalized;
+                float pullStrength = gravitationalForce * Time.fixedDeltaTime; 
+                objectToSuck.position += inwardDirection * pullStrength; 
             }
-
-            // Adjust size based on distance
-            float scaleReductionFactor = Mathf.Clamp01(1 - (distance / suckInRadius));
-            objectToSuck.localScale = Vector3.one * Mathf.Lerp(maxSizeFactor, minSizeFactor, scaleReductionFactor);
-
-            // Increment orbit timer
-            orbitTime += Time.fixedDeltaTime;
-
-            // Check if within suck-in radius
-            if (distance < suckInRadius && orbitTime >= 2f && !hasStartedSucking)
+            else if (distance < orbitDistance && distance > minOrbitDistance)
             {
-                hasStartedSucking = true;
-                SuckInObject(objectToSuck, distance);
-                
-                // Check if the object is at the center of the black hole
-                if (distance < 0.1f)
+                if (!isOrbiting)
                 {
-                    Destroy(objectToSuck.gameObject); // Object disappears at the center
-                    yield break; // Exit the coroutine
+                    orbitTimer = 0f; 
+                    isOrbiting = true;
+                }
+
+                if (orbitTimer >= delayBeforeSuckIn)
+                {
+                    canSuckIn = true;
+                }
+
+                SmoothOrbitAroundBlackHole(objectToSuck);
+            }
+            else
+            {
+                Vector3 directionToBlackHole = (transform.position - objectToSuck.position).normalized;
+                rb.AddForce(directionToBlackHole * gravitationalForce * rb.mass);
+            }
+
+            if (isOrbiting)
+            {
+                orbitTimer += Time.fixedDeltaTime;
+
+                if (orbitTimer >= orbitDuration)
+                {
+                    isOrbiting = false; 
+                }
+
+                // Slowly shrink orbit distance
+                if (orbitDistance > minOrbitDistance)
+                {
+                    orbitDistance -= orbitShrinkRate * Time.deltaTime;
                 }
             }
-            else if (distance < suckInRadius)
-            {
-                EnableRagdoll(objectToSuck);
-                break; // Exit if out of sucking range
-            }
 
-            yield return null; // Wait for the next frame
+            yield return null; 
         }
     }
 
-    private void EnableRagdoll(Transform objectToSuck)
+    private void SmoothOrbitAroundBlackHole(Transform objectToSuck)
     {
-        if (objectToSuck == null) return; // Additional check
-
-        if (objectToSuck.TryGetComponent<Rigidbody>(out Rigidbody rb))
-        {
-            rb.isKinematic = false;
-            rb.useGravity = true;
-        }
+        float angle = Time.fixedTime * orbitSpeed; 
+        Vector3 targetPosition = transform.position + new Vector3(Mathf.Cos(angle) * orbitDistance, 0, Mathf.Sin(angle) * orbitDistance);
+        
+        // Smoothly interpolate the position
+        objectToSuck.position = Vector3.Lerp(objectToSuck.position, targetPosition, Time.fixedDeltaTime * 2f); // Adjust the smoothing factor as needed
     }
 
-    private void SuckInObject(Transform objectToSuck, float distance)
+    private void SuckInObject(Transform objectToSuck)
     {
-        if (objectToSuck == null) return; // Additional check
-
-        // Increased pulling speed based on distance
-        float pullSpeed = baseSuckInSpeed * Mathf.Clamp01(1 - (distance / suckInRadius)); 
-        objectToSuck.position = Vector3.MoveTowards(objectToSuck.position, transform.position, pullSpeed * Time.deltaTime);
+        objectToSuck.position = Vector3.MoveTowards(objectToSuck.position, transform.position, suckInSpeed * Time.deltaTime);
+        Destroy(objectToSuck.gameObject, 1f);
     }
 
     private void OnDrawGizmos()
@@ -127,6 +147,9 @@ public class BlackHole : MonoBehaviour
         Gizmos.DrawWireSphere(transform.position, suckInRadius);
 
         Gizmos.color = Color.blue;
-        Gizmos.DrawWireSphere(transform.position, maxOrbitDistance); // Draw the max orbit distance
+        Gizmos.DrawWireSphere(transform.position, orbitDistance); 
+
+        Gizmos.color = Color.green;
+        Gizmos.DrawWireSphere(transform.position, minOrbitDistance); 
     }
 }
